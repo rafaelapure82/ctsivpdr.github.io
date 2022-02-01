@@ -77,6 +77,6 @@
     </div>
     <div class="mt-5 text-muted text-center">
         Ya tienes una cuenta? <a
-                href="{{ route('login') }}">SignIn</a>
+                href="{{ route('login') }}">Ingresar</a>
     </div>
 @endsection
