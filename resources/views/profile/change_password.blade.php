@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class="text-right">
-                    <button type="submit" class="btn btn-primary" id="btnPrPasswordEditSave" data-loading-text="<span class='spinner-border spinner-border-sm'></span> Processing...">Salvar</button>
+                    <button type="submit" class="btn btn-primary" id="btnPrPasswordEditSave" data-loading-text="<span class='spinner-border spinner-border-sm'></span> Processing...">Guardar</button>
                     <button type="button" class="btn btn-light ml-1" data-dismiss="modal">Cancelar
                     </button>
                 </div>
